@@ -1,0 +1,10 @@
+body {
+  background-image: url("images/background.jpeg");
+  background-position-y: -250px;
+  overflow-x: hidden;
+}
+
+.gameSection {
+  background-color: rgba(69, 87, 248, 0.822);
+  animation-duration: 51s;
+}
